@@ -1,0 +1,92 @@
+{
+  "fecha_generacion": "2025-08-06T14:30:45.123456",
+  "total_proyectos": 2,
+  "total_beneficiarios": 6,
+  "proyectos": [
+    {
+      "nombre_proyecto": "Melodía Vital",
+      "total_instituciones": 3,
+      "total_beneficiarios": 3,
+      "estadisticas_por_institucion": {
+        "Hospital General": {
+          "total": 3,
+          "por_tipo": {
+            "trabajador_salud": 1,
+            "paciente_cuidador": 1,
+            "persona_particular": 1
+          },
+          "por_genero": {
+            "femenino": 2,
+            "masculino": 1
+          },
+          "por_respuesta": {
+            "excelente": 1,
+            "buena": 1,
+            "regular": 1
+          },
+          "edad_promedio": 35.0
+        },
+        "Clínica del Valle": {
+          "total": 0
+        },
+        "Centro de Rehabilitación": {
+          "total": 0
+        }
+      },
+      "tipo_proyecto": "Musicoterapia",
+      "herramientas_disponibles": [
+        "Meditación sonora",
+        "Acompañamiento musical",
+        "Taller"
+      ],
+      "abordajes_mas_usados": {
+        "Meditación sonora": 1,
+        "Acompañamiento musical": 1,
+        "Taller": 1
+      }
+    },
+    {
+      "nombre_proyecto": "Cuadro Clínico",
+      "total_instituciones": 3,
+      "total_beneficiarios": 3,
+      "estadisticas_por_institucion": {
+        "Hospital General": {
+          "total": 3,
+          "por_tipo": {
+            "trabajador_salud": 1,
+            "paciente_cuidador": 1,
+            "persona_particular": 1
+          },
+          "por_genero": {
+            "masculino": 1,
+            "femenino": 2
+          },
+          "por_respuesta": {
+            "buena": 2,
+            "excelente": 1
+          },
+          "edad_promedio": 38.33
+        },
+        "Clínica del Valle": {
+          "total": 0
+        },
+        "Centro de Rehabilitación": {
+          "total": 0
+        }
+      },
+      "tipo_proyecto": "Arteterapia",
+      "tecnicas_disponibles": [
+        "Pintura",
+        "Poesía",
+        "Lectura",
+        "Artesanías",
+        "Escultura"
+      ],
+      "tecnicas_mas_usadas": {
+        "Pintura": 1,
+        "Poesía": 1,
+        "Lectura": 1
+      }
+    }
+  ]
+}
